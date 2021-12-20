@@ -1,0 +1,11 @@
+.App {
+
+  display: flex;
+  
+  justify-content: space-between;
+  font-size: calc(10px + 2vmin);
+}
+i{
+  color:  #F6425B;
+  margin: 10px;
+}
